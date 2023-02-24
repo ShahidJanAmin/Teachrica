@@ -159,7 +159,7 @@
 .Flex-Item_count {
     display: flex;
     height: fit-content;
-    padding: 40px;
+    padding: 60px;
     color: white;
     background: rgb(0, 201, 218);
 }
@@ -236,8 +236,8 @@
 
 .ServiceList {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-evenly; 
+    align-items: start;
 }
 
 /* trangle for picture */
@@ -515,6 +515,7 @@
     height: 55vh;
     display: flex;
     align-items: flex-end;
+    background: rgb(247,247,247);
     overflow: hidden;
 }
 
@@ -682,4 +683,13 @@
 
 .title {
     font-size: 30px;
+    font-weight: bold;
+}
+.subtitle{
+    font-size: 25px;
+    font-weight: bold;
+}
+.Paragraph{
+    font-size: 16px;
+    text-align: start;
 }

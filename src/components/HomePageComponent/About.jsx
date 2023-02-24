@@ -36,7 +36,7 @@ export default function About() {
                         <div className="btn-round-blue">Explore More</div>
                     </div>
                     <div className="col-md-6 col-sm-12 mx-auto AboutImgDiv position-relative">
-                        <img src="/Pictures/aboutUs.JPG" alt="" />
+                        <img src="/Pictures/aboutUs.jpg" alt="" />
                         <div className="trangle_picture">
 
                         </div>
@@ -70,9 +70,9 @@ export default function About() {
                                             }
                                            
                                         </div>
-                                        <div className="title">{d.title}</div>
+                                        <div className="subtitle">{d.title}</div>
                                         {/* <p>{d.Detail}</p> */}
-                                        <div className="p">
+                                        <div className="Paragraph ">
                                             {d.Detail}
                                         </div>
 

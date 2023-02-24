@@ -10,22 +10,22 @@ export default function Nav() {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav d-flex justify-content-end w-100 text-center">
-                            <li className="nav-item mx-2 pr-auto py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 py-1">
                                 <a className="nav-link py-0 active" aria-current="page" href="#">Home</a>
                             </li>
-                            <li className="nav-item mx-2 pr-auto py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 py-1">
                                 <a className="nav-link py-0" href="#about">About us</a>
                             </li>
-                            <li className="nav-item mx-2 pr-auto py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 py-1">
                                 <a className="nav-link py-0" href="#service">Services</a>
                             </li>
-                            <li className="nav-item mx-2 pr-auto py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 py-1">
                                 <a className="nav-link py-0 " href="#Testimonial">Testimonials</a>
                             </li>
-                            <li className="nav-item mx-2 pr-auto py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 py-1">
                                 <a className="nav-link py-0 " href="#contact">Contact</a>
                             </li>
-                            <li className="nav-item mx-2 pr-auto bg-info BorderRadius-round py-1">
+                            <li className="nav-item mx-2 pr-auto mx-3 bg-info BorderRadius-round py-1">
                                 <a className="nav-link py-0 text-white border-0" >+923046667704</a>
                             </li>
                         </ul>

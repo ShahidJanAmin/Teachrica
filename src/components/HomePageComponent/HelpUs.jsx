@@ -39,7 +39,7 @@ export default function HelpUs() {
                         <div className="btn-round-blue">Explore More</div>
                     </div>
                     <div className="col-md-6 col-sm-12 mx-auto AboutImgDiv position-relative">
-                        <img src="/Pictures/contectGroup.JPG" alt="" />
+                        <img src="/Pictures/contectGroup.jpg" alt="" />
                         <div className="trangle_picture-blue " style={{}}>
 
                         </div>

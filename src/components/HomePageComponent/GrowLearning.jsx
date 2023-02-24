@@ -43,7 +43,7 @@ export default function GrowLearning() {
 
                     <div className="" id="ratePic">
                         <div className="RateImg  mx-auto ">
-                            <img src="/Pictures/rate.JPG" alt="" className="mx-auto" style={{ width: "200px" }} />
+                            <img src="/Pictures/rate.jpg" alt="" className="mx-auto" style={{ width: "200px" }} />
                         </div>
                     </div>
 
