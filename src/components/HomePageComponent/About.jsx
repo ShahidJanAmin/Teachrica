@@ -36,7 +36,7 @@ export default function About() {
                         <div className="btn-round-blue">Explore More</div>
                     </div>
                     <div className="col-md-6 col-sm-12 mx-auto AboutImgDiv position-relative">
-                        <img src="/Pictures/aboutUs.jpg" alt="" />
+                        <img src="/Pictures/aboutUs.JPG" alt="" />
                         <div className="trangle_picture">
 
                         </div>

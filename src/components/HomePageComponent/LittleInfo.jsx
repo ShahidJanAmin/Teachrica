@@ -23,7 +23,7 @@ export default function LittleInfo() {
         <>
             <div className="mb-5">
             <div className="d-flex justify-content-end align-items-end">
-                <img src="/Pictures/trangle.jpg" className="trangle" alt="" />
+                <img src="/Pictures/trangle.JPG" className="trangle" alt="" />
 
             </div>
             <div className="Flex-Item_count justify-content-evenly position-relative">
