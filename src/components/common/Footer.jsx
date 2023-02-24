@@ -47,7 +47,7 @@ export default function Footer() {
             {
                 data.map((d,i)=>{
                     return(
-                        <div className="F_Flex_column" key={i}>
+                        <div className="F_Flex_column my-3" key={i}>
                             <i className={d.icon +" F_icon"} ></i>
                             <div className="title2 py-3">{d.title}</div>
                             <p>
