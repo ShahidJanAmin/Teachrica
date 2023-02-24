@@ -27,17 +27,17 @@ export default function Footer() {
         <>
             <div className="container F_Flex">
                 <div className="F_Flex_flex">
-                    <i class="bi bi-linkedin"  style={{color:"rgb(4, 152, 158)"}}></i>
-                    <i class="bi bi-facebook"  style={{color:"rgb(4, 152, 158)"}}></i>
-                    <i class="bi bi-twitter"  style={{color:"rgb(4, 152, 158)"}}></i>
+                    <a class="pe-auto bi bi-linkedin " href="#"  style={{color:"rgb(4, 152, 158)"}}></a>
+                    <a class="pe-auto bi bi-facebook" href="#" style={{color:"rgb(4, 152, 158)"}}></a>
+                    <a  class="pe-auto bi bi-twitter" href="#" style={{color:"rgb(4, 152, 158)"}}></a>
                 </div>
 
                 <Name  />
 
              <div className=" F_Flex_flex">
-                    <i class="bi bi-linkedin"  style={{color:"rgb(4, 152, 158)"}}></i>
-                    <i class="bi bi-facebook"  style={{color:"rgb(4, 152, 158)"}}></i>
-                    <i class="bi bi-twitter"  style={{color:"rgb(4, 152, 158)"}}></i>
+             <a class="pe-auto bi bi-tiktok" href="#" style={{color:"rgb(4, 152, 158)"}}></a>
+             <a class="pe-auto bi bi-instagram" href="#" style={{color:"rgb(4, 152, 158)"}}></a>
+             <a class="pe-auto bi bi-youtube" href="#" style={{color:"rgb(4, 152, 158)"}}></a>
                 </div>
             </div>
 
@@ -64,7 +64,7 @@ export default function Footer() {
 
             <div className="py-5 mx-auto">
                 <p className="text-center fw-bold" style={{color:"rgb(4, 152, 158)"}}>
-                    Copyright &#169; 2023 <span className="text-black">Teachrica</span>. All rights reserved.
+                    Copyright &#169; 2023 <span className="text-black" style={{cursor:"pointer"}}>Teachrica</span>. All rights reserved.
                 </p>
             </div>
         </>
