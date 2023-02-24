@@ -282,6 +282,9 @@
     .ServiceList {
         flex-direction: column;
     }
+    .col-md-6Text{
+        width: 90%;
+    }
 
     .ServiceList .Service {
         width: 100%;

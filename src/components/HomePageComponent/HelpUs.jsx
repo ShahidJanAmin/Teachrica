@@ -29,7 +29,7 @@ export default function HelpUs() {
 
             <div className="AboutDiv container-xxl ">
                 <div className="row mx-auto  ">
-                    <div className="col-md-6 col-sm-12 mx-auto my-3 ">
+                    <div className="col-md-6 col-md-6Text col-sm-12 mx-auto my-3 ">
                         <div className="title text-black">
                             <span className="left_trangle"></span> {data.title}
                         </div>
