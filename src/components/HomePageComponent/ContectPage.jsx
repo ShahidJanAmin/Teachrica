@@ -25,7 +25,7 @@ export default function () {
                         </form>
                     </div>
                     <div className="items2">
-                        <img src="/Pictures/phone.jpg" alt="" />
+                        <img src="/Pictures/phone.JPG" alt="" />
                     </div>
                 </div>
             </div>
