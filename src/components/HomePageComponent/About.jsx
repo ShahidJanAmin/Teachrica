@@ -3,17 +3,17 @@ export default function About() {
     const [data, setData] = useState([
         {
             title: "Home Tuition",
-            Img: "/Pictures/help1st.JPG",
+            Img: "/Pictures/help1st.jpg",
             Detail: "Providing the best quilty Home Tuition service the most qualified teachers at your..."
         },
         {
             title: "Online Tuition",
-            Img: "/Pictures/help2nd.JPG",
+            Img: "/Pictures/help2nd.jpg",
             Detail: "Get the best quality without compromising the time or location."
         },
         {
             title: "Soft Skills Courses",
-            Img: "/Pictures/help3rd.JPG",
+            Img: "/Pictures/help3rd.jpg",
             Detail: "Courses to help your child grow into a confident, smart and well rounded."
         }
     ])
