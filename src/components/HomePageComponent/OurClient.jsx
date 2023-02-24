@@ -22,7 +22,7 @@ export default function OurClient() {
             <div className="container-fluid OurClient" id="Testimonial">
                 <div className="Contact_div">
                     <h1 className="text-center">
-                        <span className="left_trangle"></span> WHat Our Client Say About Us
+                        <span className="left_trangle"></span> What Our Client Say About Us
                     </h1>
                     <p className="text-center">
                         Our valuable clients are our assets we value there feedback,
